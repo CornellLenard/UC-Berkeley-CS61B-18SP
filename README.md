@@ -1,7 +1,7 @@
 # UC-Berkeley-CS61B-18SP
 My code for UC Berkeley CS61B (18 Spring)
 
-UC Berkeley CS61B is a well-known and great course in data structures & algorithms, and the programming language it utilizes is Java.
+UC Berkeley CS61B is a well-known great course, and the programming language it utilizes is Java.
 
 This repository is about my code for the Labs, Homeworks and Projects of CS61B (18 Spring).
 
