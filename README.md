@@ -9,23 +9,22 @@ The course website of CS61B (18 Spring): https://sp18.datastructur.es/index.html
 
 ### CS61B Lecture Contents
 
-Week | Lecture Contents                                                            | Labs, Homeworks and Projects
----- | --------------------------------------------------------------------------- | -------------------------------------
-1    | Java Syntax, OOP, Class                                                     | Lab 1, HW 0
-2    | Reference, Recursion, List, Array                                           | Lab 2, Project 0
-3    | List, Test, Inheritance, Implements                                         | Lab 3, Project 1A
-4    | Extends, Casting, Polymorphism, HoF, Library, Abstract Class, Package       | Lab 4, Project 1B, Project 1 Gold
-5    | Generic, Autoboxing, Exception, Iterator, Iterable                          | HW 1, Project 2 Phase 1
-6    | Package, Access Control, Object, Encapsulation, List, Delegation, Extension | HW 1, Project 2 Phase 1
-7    | Asymptotic                                                                  | Project 2 Phase 1, Project 2 Phase 2
-8    | Disjoint Set, Tree, Binary Search Tree, Balanced Binary Search Tree         | Project 2 Phase 2, HW 2
-9    | Hashing, Heap, Advanced Tree                                                | Lab 9, HW 2, HW 3
-10   | Graph, Graph Traversal                                                      | Lab 10, HW 3, HW 4
-11   | Shortest Path, Minimum Spanning Tree, Dynamic Programming                   | Lab 11, HW 4, Project 3
-12   | Basic Sorting Algorithm, Quick Sort                                         | Lab 12, Project 3
-13   | Sorting and Algorithmic Bound, Radix Sort, Trie                             | Lab 13, Project 3, HW 5
-14   | Compression, Reduction, Algorithmic Bound, NP Completeness                  | Lab 14, HW 5, HW 6, HW 7
-15   |                                                                             | Lab 15, HW 6, HW 7
+Week | Lecture Contents
+---- | ------------------------------------------------------------------------------- 
+1    | Java Syntax, OOP, Class
+2    | Reference, Recursion, List, Array
+3    | List, Test, Inheritance, Implements
+4    | Extends, Casting, Polymorphism, HoF, Library, Abstract Class, Package
+5    | Generic, Autoboxing, Exception, Iterator, Iterable
+6    | Package, Access Control, Object, Encapsulation, List, Delegation, Extension
+7    | Asymptotic
+8    | Disjoint Set, Tree, Binary Search Tree, Balanced Binary Search Tree
+9    | Hashing, Heap, Advanced Tree
+10   | Graph, Graph Traversal
+11   | Shortest Path, Minimum Spanning Tree, Dynamic Programming
+12   | Basic Sorting Algorithm, Quick Sort
+13   | Sorting and Algorithmic Bound, Radix Sort, Trie
+14   | Compression, Reduction, Algorithmic Bound, NP Completeness
 
 
 ### CS61B Labs
@@ -74,6 +73,3 @@ Project 2 Phase 1 | [CS61BYoG](https://sp18.datastructur.es/materials/proj/proj2
 Project 2 Phase 2 | [CS61BYoG](https://sp18.datastructur.es/materials/proj/proj2/proj2)
 Project 3         | [Bear Map](https://sp18.datastructur.es/materials/proj/proj3/proj3)
 
-
-
-Reference: [cs61B-spring 2019](https://sp19.datastructur.es/)
